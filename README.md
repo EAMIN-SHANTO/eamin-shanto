@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm EAMIN</h1>
+<h1 align="center">Hi -.-, I'm EAMIN</h1>
 <h3 align="center">Studying how to print 'Hello World'</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eamin-shanto&label=Profile%20views&color=0e75b6&style=flat" alt="eamin-shanto" /> </p>
