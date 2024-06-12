@@ -1,75 +1,23 @@
-# Welcome to My GitHub Profile! 👋
+<h1 align="center">Hi 👋, I'm EAMIN</h1>
+<h3 align="center">Studying how to print 'Hello World'</h3>
 
-![Header Image](https://example.com/your-header-image.png)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=eamin-shanto&label=Profile%20views&color=0e75b6&style=flat" alt="eamin-shanto" /> </p>
 
-## About Me
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=eamin-shanto" alt="eamin-shanto" /></a> </p>
 
-Hi there! I'm **[Your Name]**, a passionate **[Your Profession]** with a love for **[Your Interests/Fields of Expertise]**. I'm always eager to learn new things and collaborate on exciting projects.
+- 📫 How to reach me **md.eamin0519@gmail.com**
 
-- 🌱 Currently learning: **[Technology/Language]**
-- 💬 Ask me about: **[Topics you're knowledgeable about]**
-- 📫 How to reach me: **[Your Email or LinkedIn]**
-- ⚡ Fun fact: **[A fun fact about you]**
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://dev.to/md.eamin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="md.eamin" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/md.eamin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="md.eamin" height="30" width="40" /></a>
+</p>
 
-## 🚀 Projects
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
 
-Here are a few projects I've been working on:
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=eamin-shanto&show_icons=true&locale=en&layout=compact" alt="eamin-shanto" /></p>
 
-### [Project 1](https://github.com/yourusername/project1)
-A brief description of what this project is about.
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=eamin-shanto&show_icons=true&locale=en" alt="eamin-shanto" /></p>
 
-- **Tech Stack:** [Technologies used]
-- **Features:** [Key features of the project]
-
-### [Project 2](https://github.com/yourusername/project2)
-A brief description of what this project is about.
-
-- **Tech Stack:** [Technologies used]
-- **Features:** [Key features of the project]
-
-### [Project 3](https://github.com/yourusername/project3)
-A brief description of what this project is about.
-
-- **Tech Stack:** [Technologies used]
-- **Features:** [Key features of the project]
-
-## 📈 GitHub Stats
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
-
-## 🌐 Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourprofile)
-[![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=github&logoColor=white)](https://yourwebsite.com)
-
-## 📜 Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-- [Post 1](https://yourblog.com/post1)
-- [Post 2](https://yourblog.com/post2)
-- [Post 3](https://yourblog.com/post3)
-<!-- BLOG-POST-LIST:END -->
-
-## 🛠️ Languages and Tools
-
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-![Node.js](https://img.shields.io/badge/node.js-%23339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Python](https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-
-## 🤝 Support
-
-If you like my work, consider buying me a coffee!
-
-[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-F7DF1E?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/yourusername)
-
----
-
-*This README was generated with ❤️ by [Your Name].*
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=eamin-shanto&" alt="eamin-shanto" /></p>
